@@ -22,11 +22,11 @@ Team Lead - Data Analytics, Paytm
 [Human+Resource+Data.csv](Human+Resource+Data.csv) contains information of 470 employees.
 This data is used for the analysis.
 
-
 ## Procedure
 
-### Load the data
+### Load the data and create a new attribute
 <kbd>  ![](images/load1.PNG)  </kbd>
+<kbd>  ![](images/create.PNG)  </kbd>
 
 ### Quick summary 
 quick summary contains the information about:
