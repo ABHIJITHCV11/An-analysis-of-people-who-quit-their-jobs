@@ -15,13 +15,8 @@ This case study is done in Tableau to identify the primary factors causing attri
 ## Guided by
 Subject Matter Expert :
 [Amit Goyal](https://www.linkedin.com/in/amit-goyal-09067467/)
-
 Team Lead - Data Analytics, Paytm
-## Guided by
-Subject Matter Expert :
-[Amit Goyal](https://www.linkedin.com/in/amit-goyal-09067467/)
 
-Team Lead - Data Analytics, Paytm
 ## Data
 Human+Resource+Data.csv contains information of 470 employees.
 This data is used for the analysis.
