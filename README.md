@@ -35,17 +35,22 @@ Number of people who left the company, Average age of the employees, Average sal
 
 Factors are:
 
-Job role: Most of the employees who left the company were laboratory technicians and sales executives.
+- Job role:
+  - Most of the employees who left the company were laboratory technicians and sales executives.
 <kbd>  ![](images/job_role.PNG)  </kbd>
 
-Years with the current manager: Most of the employees who left the company had reported to their current manager for less than a year.
+- Years with the current manager: 
+  - Most of the employees who left the company had reported to their current manager for less than a year.
 <kbd>  ![](images/years_spent.PNG)  </kbd>
 
-Number of companies: Employees who worked in only one company before working at 149 Solutions contributed the highest to the attrition rate.
+- Number of companies: 
+  - Employees who worked in only one company before working at 149 Solutions contributed the highest to the attrition rate.
 <kbd>  ![](images/Number_of_companies_worked.PNG)  </kbd>
 
-Gender: A large number of male employees left the company as compared with female employees.
+- Gender: 
+  - A large number of male employees left the company as compared with female employees.
 <kbd>  ![](images/gender.PNG)  </kbd>
 
-Job role and number of companies: Laboratory technicians who worked in only one company before 149 solutions contributed the most to the attrition rate.
+- Job role and number of companies: 
+  - Laboratory technicians who worked in only one company before 149 solutions contributed the most to the attrition rate.
 <kbd>  ![](images/job_roles_vs_no_companies_worked.PNG)  </kbd>
