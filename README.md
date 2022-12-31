@@ -29,7 +29,7 @@ This data is used for the analysis.
 <kbd>  ![](images/create.PNG)  </kbd>
 
 ### Quick summary 
-quick summary contains the information about:
+Quick summary contains the information about:
 Number of people who left the company, Average age of the employees, Average salary hike percentage, Average total working years, Median distance from home, Avetage performance rating.
 <kbd>  ![](images/quick2.PNG)  </kbd>
 
