@@ -1,5 +1,5 @@
 
-# Reasons why employees quit.
+# An analysis of people who quit their jobs.
 
 This case study is done in Tableau to identify the primary factors causing attrition.
 
