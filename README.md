@@ -51,8 +51,11 @@ Factors are:
 
 - Gender: 
   - A large number of male employees left the company as compared with female employees.
+  - Among females, 14.7% quit their jobs, while 17.0% quit theirs.
+  
 <kbd>  ![](images/gender.PNG)  </kbd>
 
 - Job role and number of companies: 
-  - Laboratory technicians who worked in only one company before 149 solutions contributed the most to the attrition rate.
+  - Laboratory technicians who worked in only one company before 149 solutions contributed the most to the quitting rate.
+  - There were fewer quitters among those who worked at eight or nine different jobs
 <kbd>  ![](images/job_roles_vs_no_companies_worked.PNG)  </kbd>
