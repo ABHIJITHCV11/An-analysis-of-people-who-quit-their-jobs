@@ -3,12 +3,11 @@
 
 This case study is done in Tableau to identify the primary factors causing attrition.
 
-
-
+Check out the [Dashboard](https://public.tableau.com/views/Ananalysisofpeoplewhoquittheirjobs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) containing the analysis.
 
 ## Objectives
 
-- Analyse a data set on the human resources of a company called ‘149 Solutions’(hypothetical). 
+- Analyse a data set on the human resources of a company called ‘149 Solutions’(hypothetical company). 
 - Create appropriate visualisations to identify the factors causing people to quit their jobs. 
 - Prepare a dashboard containing these visualisations by applying the best practices.
 
